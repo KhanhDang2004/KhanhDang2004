@@ -1,21 +1,42 @@
-i My name is Phạm Khánh Đăng 
+### Hi there, I'm Thành Nam Nguyễn aka Yuu! 👋
 
-I'm Web Developer from Code Lyoko Team
+I'm a **Web Developer** from **Code Lyoko Team**. 🚀
 
-Code Lyoko is a French animated television series that premiered in 2003. The show follows a group of teenagers who discover a virtual world called Lyoko, which is inhabited by artificial intelligence and is threatened by a malevolent entity known as XANA. This is a movie that I have liked since I was young, so I named my team after this movie.
+> _"Code Lyoko" is a French animated TV series that I loved since childhood, so I named my team after it._
 
-🌍  I'm based in Viet Nam
-👨‍🎓 Studied at Open University (OU HCMC)
-🖥️  See my portfolio website at thanhnamnguyen.dev
-📝 Blog at thanhnamnguyen.dev/blog
-✉️  You can contact me via namnguyenthanh.work@gmail.com
-Skills
+---
 
-I made projects just for fun, training my skills...
+### 🛠 Tech Stack & Skills
 
-GitJavaScriptTypeScriptHTML5CSS3ReactNextJsSassTailwindCSSBootstrapMaterial UI
+I build projects for fun and to hone my skills. Here are some of my key technologies:
 
-Socials
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript
+- **Frameworks & Libraries:** React, Next.js, TailwindCSS, Sass, Bootstrap, Material UI
+- **Version Control:** Git, GitHub
+- **Other Tools:** VS Code, Figma, Postman
 
-    
+---
 
+### 🌍 About Me
+
+- 📍 Based in **Vietnam**
+- 🎓 Studied at **Open University (OU HCMC)**
+- 🖥️ Check out my portfolio: [thanhnamnguyen.dev](https://thanhnamnguyen.dev)
+- 📝 I write about tech at my blog: [thanhnamnguyen.dev/blog](https://thanhnamnguyen.dev/blog)
+- ✉️ Contact me: [namnguyenthanh.work@gmail.com](mailto:namnguyenthanh.work@gmail.com)
+
+---
+
+### 🔗 Connect with Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your-profile)
+[![Zalo](https://img.shields.io/badge/Zalo-%23005AFF.svg?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
